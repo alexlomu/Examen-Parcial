@@ -1,5 +1,5 @@
 # Examen-Parcial
-Esta es la direccion del repositorio [GitGub](https://github.com/alexlomu/Examen-Parcial)
+Esta es la direccion del repositorio [GitHub](https://github.com/alexlomu/Examen-Parcial)
 https://github.com/alexlomu/Examen-Parcial
 Para este examen hemos hecho dos juegos, en el primero compararemos cuantas palabras se forman a partir de otra empezando por consonantes y por vocales, luego compararemos estas puntuaciones y determinaremos un ganador
 En el segundo juego tendremos un tablero de forma cuadrada en el que dos jugadores tendrán una torre en cada columna del tablero que solo podrán mover de forma vertical sin sobrepasar ni ocupar la posición de la torre del otro jugador, cuando un jugador es incapaz de mover ninguna de las torres pierde.
